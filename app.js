@@ -15,7 +15,7 @@ accepted.addEventListener('click', () => {
   let timerInterval
   Swal.fire({
     title: 'Obrigado por aceitar! 💖',
-    html: 'Se prepara para o melhor date da sua vida',
+    html: 'Se prepara para o melhor date da sua vida Ana Luiza',
     timer: 4000,
     timerProgressBar: true,
     didOpen: () => {
